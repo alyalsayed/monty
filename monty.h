@@ -81,5 +81,4 @@ void add_node(stack_t **head, int n);
 void add_queue(stack_t **head, int n);
 void my_queue(stack_t **head, unsigned int counter);
 void my_stack(stack_t **head, unsigned int counter);
-
 #endif
